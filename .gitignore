@@ -1,0 +1,51 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse project files
+*.project
+*.classpath
+*.settings/
+.metadata/
+
+# NetBeans project files
+*.nbproject
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+build.xml
+
+# Maven project files
+target/
+pom.xml.*
+pom.xml
+*.mvn
+mvnw
+mvnw.cmd
+
+# Gradle project files
+.gradle/
+build/
